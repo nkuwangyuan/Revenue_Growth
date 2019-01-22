@@ -1,5 +1,5 @@
 # Revenue_Growth
-Strategy on Revenue Growth for a Portfolio of 5 Software Products
+"Strategy on Revenue Growth for a Portfolio of 5 Software Products"
 
 A strategy and analytics consultant is hired by the Head of Sales for the company SaaSHub, based in North America. Given data on sales transactions for a portfolio of 5 different SaaS (Software as a Service) products, it is asked to create a strategy on how to grow revenue for this software company.
 
